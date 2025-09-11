@@ -1,7 +1,7 @@
 {
   "name": "M38 #0008 \u2013 Collatz Conjecture",
   "description": "Part of the ultra-limited M38 'Unsolved Math Problems' series. Only 10 holographic luxury cards exist. Each represents one of the greatest unsolved mysteries in mathematics. Owning one means owning a piece of human curiosity itself.\n\nDoes every positive integer eventually fall into the 4 \u2192 2 \u2192 1 loop? Simple to state, impossible to prove.",
-  "image": "https://raw.githubusercontent.com/QuantumM38/quantumm38-math-assets/main/images/0008.png",
+  "image": "https://raw.githubusercontent.com/QuantunM38/MathCards/main/images/0008.png",
   "attributes": [
     {
       "trait_type": "Series",
