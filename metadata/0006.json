@@ -1,0 +1,27 @@
+{
+  "name": "M38 #0006 \u2013 Yang\u2013Mills Mass Gap",
+  "description": "Part of the ultra-limited M38 'Unsolved Math Problems' series. Only 10 holographic luxury cards exist. Each represents one of the greatest unsolved mysteries in mathematics. Owning one means owning a piece of human curiosity itself.\n\nWhy do particles in Yang\u2013Mills theory exhibit a positive mass gap? A Millennium Prize Problem.",
+  "image": "https://raw.githubusercontent.com/QuantumM38/quantumm38-math-assets/main/images/0006.png",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "M38 \u2013 Unsolved Math Problems"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": "6/10"
+    },
+    {
+      "trait_type": "Problem",
+      "value": "Yang\u2013Mills Mass Gap"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Physics / Quantum Field"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "1 of 10"
+    }
+  ]
+}
